@@ -100,12 +100,6 @@ runs/detect/train/weights/best.pt
 yolo detect predict model=runs/detect/train/weights/best.pt source=images/val
 ```
 
-📸 Resultado da inferência (exemplo visual):
-
-```
-(runs/detect/predict/520.jpg)
-```
-
 ---
 
 ## 📂 Arquivo `data.yaml`
